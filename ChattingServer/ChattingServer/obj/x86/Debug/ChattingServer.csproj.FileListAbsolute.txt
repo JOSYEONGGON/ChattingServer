@@ -1,0 +1,7 @@
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.Form1.resources
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.Properties.Resources.resources
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.csproj.GenerateResource.Cache
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\bin\Debug\ChattingServer.exe
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\bin\Debug\ChattingServer.pdb
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.exe
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.pdb
