@@ -5,3 +5,4 @@ E:\GitHub\ChattingServer\ChattingServer\ChattingServer\bin\Debug\ChattingServer.
 E:\GitHub\ChattingServer\ChattingServer\ChattingServer\bin\Debug\ChattingServer.pdb
 E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.exe
 E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.pdb
+E:\GitHub\ChattingServer\ChattingServer\ChattingServer\obj\x86\Debug\ChattingServer.csprojResolveAssemblyReference.cache
